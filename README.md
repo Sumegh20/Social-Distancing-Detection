@@ -42,7 +42,7 @@ $ python app.py --source <path to the video file>
 *Add using '--'*
 
 ```
-weights='yolov5s.pt' imgsz=[H, W] max-det = <Number> device=<cpu/gpu> show-vid=<True/False>  
+weights='yolov5s.pt' imgsz=[H, W] max-det = <Number> device=<cpu/gpu> show-vid
 ```
 
 ---
